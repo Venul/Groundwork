@@ -1,0 +1,73 @@
+@font-face {
+    font-family: 'Myriad'; 
+    src: url('../fonts/Myriad_pro_regular.otf');
+}
+
+@font-face {
+    font-family: 'Cambria'; 
+    src: url('../fonts/cambria.ttf');
+}
+
+
+.tagline h1,
+.serviceslist li,
+h2, h3 {
+    font-family: 'Myriad', 'Times New Roman', serif;
+    text-transform: none;
+}
+
+.aboutcopy p {
+    font-family: 'Cambria', 'Times New Roman', serif;
+    text-transform: none;
+}
+
+.span4-logo {
+    text-align: center;
+    width: 100% !important;
+}
+
+div.logo {
+    margin: 0 auto;
+    padding-top: 1%;
+    width: 15%;
+}
+
+a#contacttwittericon {
+    width: 100%;
+}
+
+.social_wrapper {
+    width: inherit;
+}
+
+video{
+   position:fixed;
+   z-index:-1;
+   min-width:100%;
+   min-height:100%;
+   overflow:hidden;
+    opacity: 0.5;
+}
+ 
+/*
+p{
+ font-family: 'courgette';
+ color:#fff;
+ font-size: 80px;
+ text-align: center;
+ padding-top: 20%;
+ text-shadow: 0 1px 1px #000a33;
+}*/
+
+
+.bgvideo {
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  min-width: 100%;
+  min-height: 100%;
+  width: auto;
+  height: auto;
+  z-index: -9999;
+        width: 100%;
+}

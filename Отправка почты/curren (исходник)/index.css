@@ -1,0 +1,220 @@
+/* ::::: http://fonts.googleapis.com/css?family=Scada:400italic,700italic,400,700&subset=latin,cyrillic ::::: */
+
+@font-face {
+	font-family: "Scada";
+	font-style: normal;
+	font-weight: 400;
+	src: local("Scada"), local("Scada-Regular"), url('4v2xlvzxpbatjb_l2vylog.woff2') format("woff2");
+	unicode-range: U+400-45F, U+490-491, U+4B0-4B1, U+2116;
+}
+@font-face {
+	font-family: "Scada";
+	font-style: normal;
+	font-weight: 400;
+	src: local("Scada"), local("Scada-Regular"), url('ehf4kkesccrmp9p5omfqsa.woff2') format("woff2");
+	unicode-range: U+100-24F, U+1E00-1EFF, U+20A0-20AB, U+20AD-20CF, U+2C60-2C7F, U+A720-A7FF;
+}
+@font-face {
+	font-family: "Scada";
+	font-style: normal;
+	font-weight: 400;
+	src: local("Scada"), local("Scada-Regular"), url('e0wavaszb-sujpxhatsawg.woff2') format("woff2");
+	unicode-range: U+0-FF, U+131, U+152-153, U+2C6, U+2DA, U+2DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215, U+E0FF, U+EFFD, U+F000;
+}
+@font-face {
+	font-family: "Scada";
+	font-style: normal;
+	font-weight: 700;
+	src: local("Scada Bold"), local("Scada-Bold"), url('ltpk59254jtjjfupapglkbtbgvql8ndjpwnre27mub0.woff2') format("woff2");
+	unicode-range: U+400-45F, U+490-491, U+4B0-4B1, U+2116;
+}
+@font-face {
+	font-family: "Scada";
+	font-style: normal;
+	font-weight: 700;
+	src: local("Scada Bold"), local("Scada-Bold"), url('fo3721xo0fjw14wb89olbhtbgvql8ndjpwnre27mub0.woff2') format("woff2");
+	unicode-range: U+100-24F, U+1E00-1EFF, U+20A0-20AB, U+20AD-20CF, U+2C60-2C7F, U+A720-A7FF;
+}
+@font-face {
+	font-family: "Scada";
+	font-style: normal;
+	font-weight: 700;
+	src: local("Scada Bold"), local("Scada-Bold"), url('9zpfvsizubbpre5si-fm8peszw2xoq-xsnqo47m55da.woff2') format("woff2");
+	unicode-range: U+0-FF, U+131, U+152-153, U+2C6, U+2DA, U+2DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215, U+E0FF, U+EFFD, U+F000;
+}
+@font-face {
+	font-family: "Scada";
+	font-style: italic;
+	font-weight: 400;
+	src: local("Scada Italic"), local("Scada-Italic"), url('5q1hqo9ayq-pempooxsvipy6323mhuzfjmgtvxag2ie.woff2') format("woff2");
+	unicode-range: U+400-45F, U+490-491, U+4B0-4B1, U+2116;
+}
+@font-face {
+	font-family: "Scada";
+	font-style: italic;
+	font-weight: 400;
+	src: local("Scada Italic"), local("Scada-Italic"), url('fh5ucnj4kyfhqaviwsndypy6323mhuzfjmgtvxag2ie.woff2') format("woff2");
+	unicode-range: U+100-24F, U+1E00-1EFF, U+20A0-20AB, U+20AD-20CF, U+2C60-2C7F, U+A720-A7FF;
+}
+@font-face {
+	font-family: "Scada";
+	font-style: italic;
+	font-weight: 400;
+	src: local("Scada Italic"), local("Scada-Italic"), url('lbzaiejphhstjpdisuobgw.woff2') format("woff2");
+	unicode-range: U+0-FF, U+131, U+152-153, U+2C6, U+2DA, U+2DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215, U+E0FF, U+EFFD, U+F000;
+}
+@font-face {
+	font-family: "Scada";
+	font-style: italic;
+	font-weight: 700;
+	src: local("Scada Bold Italic"), local("Scada-BoldItalic"), url('3875edm-9ys3otdhl2b2gyeavth_llrfe80cydsh47w.woff2') format("woff2");
+	unicode-range: U+400-45F, U+490-491, U+4B0-4B1, U+2116;
+}
+@font-face {
+	font-family: "Scada";
+	font-style: italic;
+	font-weight: 700;
+	src: local("Scada Bold Italic"), local("Scada-BoldItalic"), url('lrs2liqpioh5-tfazbs6rieavth_llrfe80cydsh47w.woff2') format("woff2");
+	unicode-range: U+100-24F, U+1E00-1EFF, U+20A0-20AB, U+20AD-20CF, U+2C60-2C7F, U+A720-A7FF;
+}
+@font-face {
+	font-family: "Scada";
+	font-style: italic;
+	font-weight: 700;
+	src: local("Scada Bold Italic"), local("Scada-BoldItalic"), url('o8gffeuueuuurx0yjfgix_k_varhqviz0nv9q090hn8.woff2') format("woff2");
+	unicode-range: U+0-FF, U+131, U+152-153, U+2C6, U+2DA, U+2DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215, U+E0FF, U+EFFD, U+F000;
+}
+/* ::::: http://currenswatch.com/files/curren_watch_1/css/style.css ::::: */
+
+body { padding: 0px; margin: 0px; background: rgb(255, 255, 255) none repeat scroll 0% 0%; color: rgb(0, 0, 0); }
+header, nav, section, article, aside, footer { display: block; }
+img { border: medium none; }
+:focus { outline: medium none; }
+@font-face {
+	font-family: "PFHandbookPro-Regular";
+	font-style: normal;
+	font-weight: normal;
+	src: url('pfhandbookpro-regular.eot') format("embedded-opentype"), url('pfhandbookpro-regular.woff') format("woff"), url('pfhandbookpro-regular.ttf') format("truetype"), url('pfhandbookpro-regular.svg') format("svg");
+}
+@font-face {
+	font-family: "PFHandbookPro-Bold";
+	font-style: normal;
+	font-weight: normal;
+	src: url('pfhandbookpro-bold.eot') format("embedded-opentype"), url('pfhandbookpro-bold.woff') format("woff"), url('pfhandbookpro-bold.ttf') format("truetype"), url('pfhandbookpro-bold.svg') format("svg");
+}
+@font-face {
+	font-family: "PFHandbookPro-ExtraThin";
+	font-style: normal;
+	font-weight: normal;
+	src: url('pfhandbookpro-thin.eot') format("embedded-opentype"), url('pfhandbookpro-thin.woff') format("woff"), url('pfhandbookpro-thin.ttf') format("truetype"), url('pfhandbookpro-thin.svg') format("svg");
+}
+a { color: rgb(0, 0, 0); }
+.contener { width: 960px; margin: 0px auto; }
+.shapka { width: 100%; height: 100px; background: rgba(26, 26, 26, 0.9) none repeat scroll 0% 0%; position: fixed; z-index: 1; }
+.shapka-content { position: relative; margin: 0px auto; width: 960px; }
+.desc { position: absolute; float: left; width: 250px; color: rgb(255, 255, 255); margin-left: 5px; }
+.desc img { padding-top: 8px; }
+.contacts { position: absolute; margin-left: 700px; width: 241px; }
+@media all and (max-width: 960px) {
+	.shapka { width: 960px; position: absolute; }
+}
+.button-orange { padding-left: 57px; padding-top: 11px; }
+.top-button { padding: 4px 21px; background-color: rgb(255, 102, 0); border-radius: 10px; color: rgb(255, 255, 255); text-decoration: none; font-size: 14px; text-transform: uppercase; }
+.title { font-size: 26px; font-family: "PFHandbookPro-Bold"; text-transform: uppercase; margin-top: 15px; text-align: center; }
+.contener-h { width: 960px; margin: 0px auto; }
+.blog6_img { width: 329px; height: 453px; float: left; margin-top: -75px; }
+header { min-width: 960px; padding-top: 100px; }
+#header { border-bottom: 1px solid rgb(62, 29, 25); background: transparent url('header.jpg') no-repeat scroll center top; height: 391px; font-family: "PFHandbookPro-Regular"; padding-top: 40px; color: rgb(255, 255, 255); }
+.kv1, .kv2 { color: rgb(156, 157, 167); font-size: 36px; font-family: "PFHandbookPro-Bold"; text-transform: uppercase; margin: 0px 0px 5px; padding-left: 20px; }
+.kv1 { margin-left: 490px; }
+.kv2 { margin-left: 510px; }
+.kv3 { font-size: 36px; margin-top: 0px; margin-left: 550px; }
+#blok1 { background: transparent url('img_f1.jpg') no-repeat scroll center top; height: 428px; border-bottom: 1px solid rgb(213, 213, 213); padding-top: 35px; font-family: "PFHandbookPro-ExtraThin"; font-size: 22px; min-width: 960px; }
+.video { float: left; width: 459px; height: 300px; margin-right: 30px; }
+#blok1 span { font-family: "PFHandbookPro-Regular"; }
+#blok1 p { margin: 0px 0px 33px; line-height: 25px; }
+.url_order { float: left; background: transparent url('url_order.png') repeat scroll 0% 0%; width: 324px; height: 59px; }
+#blok2 { font-size: 22px ! important; text-transform: uppercase; text-align: center; font-family: "PFHandbookPro-Regular"; }
+#blok2 .contener div { display: inline-block; width: 230px; vertical-align: top; margin: 50px 30px 35px; }
+#blok2 div img { margin-bottom: 15px; }
+#blok3 { min-width: 960px; background: transparent url('img_f2.jpg') no-repeat scroll center top; height: 574px; border-bottom: 1px solid rgb(204, 204, 204); text-align: center; font-family: "PFHandbookPro-ExtraThin"; font-size: 20px ! important; }
+#blok3 div { display: inline-block; width: 260px; vertical-align: top; padding: 45px 23px 35px; height: 494px; }
+#blok3 div p { margin: 12px 0px; line-height: 24px; }
+#blok3 div img { margin-bottom: 5px; }
+#blok3 div .title { font-size: 26px; font-family: "PFHandbookPro-Bold"; }
+#blok3 div:hover { background: rgb(168, 42, 18) none repeat scroll 0% 0%; color: rgb(255, 255, 255); }
+#blok4 { min-width: 960px; background: transparent url('img_f3.jpg') no-repeat scroll center top; height: 520px; border-bottom: 1px solid rgb(204, 204, 204); padding-top: 40px; font-family: "PFHandbookPro-ExtraThin"; font-size: 22px; }
+#blok4 img { float: left; margin: 21px 20px 0px 0px; }
+#blok4 .title { font-size: 26px; font-family: "PFHandbookPro-Bold"; text-transform: uppercase; margin-top: 15px; }
+#blok4 p span { font-family: "PFHandbookPro-Regular"; }
+#blok4 p { line-height: 27px; margin-bottom: 15px; }
+#blok4 .url_order { background: transparent url('url_order1.png') repeat scroll 0% 0%; }
+#blok5 { min-width: 960px; font-family: "PFHandbookPro-ExtraThin"; background: transparent url('img_f4.jpg') no-repeat scroll center top; height: 470px; padding-top: 35px; color: rgb(255, 255, 255); font-size: 22px; position: relative; }
+#blok5 .h1 { color: rgb(255, 255, 255); }
+#blok5 p { line-height: 25px; margin: 0px 0px 15px 155px; }
+#blok5 p span { font-family: "PFHandbookPro-Regular"; }
+#blok5 .otstup { margin-left: 35px; }
+#blok6 { min-width: 960px; padding-top: 35px; font-family: "PFHandbookPro-ExtraThin"; font-size: 22px; text-align: center; }
+.prichina { display: inline-block; vertical-align: top; width: 240px; margin: 10px 35px 45px; position: relative; }
+.nom { position: absolute; left: 34px; top: -6px; font-family: "PFHandbookPro-Regular"; font-size: 36px; }
+#blok7 { min-width: 960px; background: transparent url('img_f5.jpg') no-repeat scroll center top; height: 510px; text-align: center; position: relative; }
+#order_blok { float: right; background: transparent url('blok_order.png') repeat scroll 0% 0%; width: 368px; height: 250px; font-family: "PFHandbookPro-Bold"; margin: 135px 40px 0px 0px; text-transform: uppercase; text-shadow: 2px 2px rgb(42, 42, 42); padding-top: 15px; font-size: 34px; color: rgb(255, 221, 65); border-radius: 6px; }
+#order_blok_t { width: 406px; float: left; margin: 48px 0px 0px 10px; }
+#order_blok_t .title { color: rgb(255, 0, 0); font-size: 72px; font-family: "PFHandbookPro-Regular"; text-shadow: 3px 3px rgb(255, 255, 255); padding: 6px 0px 16px; }
+#order_blok_t .title span { font-family: "PFHandbookPro-Bold"; }
+#order_blok_t .price { color: rgb(255, 255, 255); font-size: 72px; font-family: "PFHandbookPro-Bold"; text-shadow: 3px 3px rgb(0, 0, 0); line-height: 70px; margin-top: -45px; }
+#order_blok_t .price span { font-size: 40px; color: rgb(255, 255, 255); font-family: "PFHandbookPro-Regular"; text-decoration: line-through; }
+#order_blok_t .timer { color: rgb(255, 255, 255); font-size: 20px; font-family: "PFHandbookPro-Regular"; padding-top: 17px; }
+#order_blok_t .timer span { font-family: "PFHandbookPro-ExtraThin"; color: rgb(255, 255, 255); float: left; }
+#order_blok_t .timer .den_t0 { margin-left: 92px; }
+#order_blok_t .timer .den_t { margin: 0px 47px 0px 50px; }
+#blok8 { min-width: 960px; position: relative; text-align: center; font-size: 22px; font-family: "PFHandbookPro-ExtraThin"; padding-top: 25px; }
+#blok8 .contener { background: transparent url('pl3.png') repeat-x scroll 0px 147px; }
+#blok8 .rmr { display: inline-block; width: 200px; vertical-align: top; margin: 15px 15px 25px; }
+#blok8 .rmr img { background: rgb(255, 255, 255) none repeat scroll 0% 0%; padding: 0px 5px; }
+#blok8 .title { font-family: "PFHandbookPro-Regular"; text-transform: uppercase; margin-bottom: 10px; }
+#blok8 p { margin: 15px 0px; }
+#blok10 { border-bottom: 1px solid rgb(195, 195, 195); min-width: 960px; padding-top: 35px; font-family: "PFHandbookPro-ExtraThin"; font-size: 18px; padding-bottom: 20px; }
+#blok10 .otziv { margin-bottom: 22px; position: relative; }
+#blok10 .otziv .gloz { background: transparent url('oziv.png') repeat scroll 0% 0%; width: 11px; height: 22px; position: absolute; left: 135px; top: 40px; }
+#blok10 .otziv img { float: left; width: 115px; height: 115px; border-radius: 50%; }
+#blok10 .otziv .oziv_text { border: 1px solid rgb(195, 195, 195); float: right; width: 773px; border-radius: 10px; padding: 0px 20px; }
+#blok10 .otziv .oziv_text .title { font-size: 22px; text-transform: uppercase; font-family: "PFHandbookPro-Regular"; margin: 10px 0px -7px; }
+#blok11 { min-width: 960px; position: relative; text-align: center; font-size: 18px; font-family: "PFHandbookPro-ExtraThin"; padding-top: 25px; }
+#blok11 .contener { background: transparent url('pl4.png') repeat-x scroll 0px 147px; width: 960px; }
+#blok11 .rmr { display: inline-block; width: 200px; vertical-align: top; margin: 20px 15px 25px; }
+#blok11 .rmr img { background: rgb(255, 255, 255) none repeat scroll 0% 0%; padding: 0px 5px; }
+#blok11 .title { font-family: "PFHandbookPro-Regular"; margin-bottom: 10px; font-size: 22px; }
+#blok11 p { margin: 15px 0px; }
+footer { min-width: 960px; background: transparent url('footer.png') no-repeat scroll center center / cover ; padding: 15px 0px; margin-bottom: -25px; text-align: center; color: rgb(255, 255, 255); font-family: "PFHandbookPro-Bold"; }
+footer div a { color: rgb(255, 255, 255) ! important; }
+.h1 { font-size: 44px; font-family: "PFHandbookPro-Bold"; margin: 0px 0px 35px; text-align: center; line-height: normal ! important; text-transform: uppercase; }
+.menu_metka { top: -53px; position: absolute; }
+.color1 { color: rgb(254, 0, 0); font-family: "PFHandbookPro-Bold"; }
+.linia { border-bottom: 3px solid rgb(254, 0, 0); }
+.br { clear: both; height: 0px; font-size: 1px; line-height: 0px; }
+.gelery { border-bottom: 1px solid rgb(204, 204, 204) ! important; }
+.url_order { animation-name: expandOpen; animation-duration: 1.2s; animation-timing-function: ease-out; visibility: visible ! important; animation-iteration-count: infinite; }
+.apishopsFormButton.apishopsFormBuy b::after { background: transparent none repeat scroll 0% 0% ! important; }
+.video { z-index: 900 ! important; }
+@media all and (max-width: 1100px) {
+}
+.footer-img-current { min-width: 960px; height: 429px; }
+.k_qst_div_31 { float: left; margin: 14px; }
+.k_input { border-radius: 5px; border: 1px solid rgb(218, 218, 218); width: 320px; height: 30px; padding-left: 5px; padding-right: 5px; color: rgb(66, 66, 66); margin-bottom: 10px; }
+.k_save_button { color: rgb(255, 255, 255); font-size: 18px; padding: 15px; border-radius: 5px; background: rgb(227, 5, 2) none repeat scroll 0% 0%; box-shadow: 0px 4px 0px rgba(130, 11, 10, 0.75); border: medium none; width: 330px; height: 45px; cursor: pointer; }
+.k_save_button:hover { background: rgb(182, 14, 12) none repeat scroll 0% 0%; }
+.orderbutton { margin-left: 590px; margin-top: -10px; }
+.lightbox { display: none; position: fixed; z-index: 999; width: 100%; height: 100%; text-align: center; top: 0px; left: 0px; background: rgba(0, 0, 0, 0.8) none repeat scroll 0% 0%; }
+.lightbox img { max-width: 90%; max-height: 80%; margin-top: 2%; }
+.lightbox:target { outline: medium none; display: block; }
+.k_input { width: 288px; height: 43px ! important; margin: 0px 0px 8px 16px; font-size: 15px; }
+.k_save_button { color: rgb(255, 255, 255); font-size: 18px; padding: 15px; border-radius: 5px; box-shadow: 0px 4px 0px rgba(130, 11, 10, 0.75); border: medium none; width: 309px; height: 45px; cursor: pointer; }
+.k_save_button:hover { background: rgb(182, 14, 12) none repeat scroll 0% 0%; }
+.timer { text-align: center; }
+.timer .digit { display: inline-block; width: 50px; margin: 0px 10px; }
+.timer .numbers { font-size: 46px; }
+/* ::::: http://currenswatch.com/files/curren_watch_1/js/fancybox2/jquery.fancybox.css ::::: */
+
+@media not all, only screen and (min--moz-device-pixel-ratio: 1.5), not all {
+}

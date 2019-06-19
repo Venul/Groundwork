@@ -1,0 +1,12 @@
+HTTrack3.48-21+htsswf+htsjava launched on Tue, 23 Feb 2016 02:21:57 at http://currenswatch.com/success?order_id=9fe3e66c73-0cf98a9130-7295d5eb1f-a18142cf8d +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "ru, en, *" http://currenswatch.com/success?order_id=9fe3e66c73-0cf98a9130-7295d5eb1f-a18142cf8d -O1 "C:\Users\Vnl\Desktop\11q 22\23" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+02:21:58	Warning: 	File not parsed, looks like binary: currenswatch.com/robots.txt
+
+HTTrack Website Copier/3.48-21 mirror complete in 1 minutes 8 seconds : 33 links scanned, 32 files written (2156359 bytes overall) [2039674 bytes received at 29995 bytes/sec], 373263 bytes transferred using HTTP compression in 13 files, ratio 65%, 2.5 requests per connection
+(No errors, 1 warnings, 0 messages)

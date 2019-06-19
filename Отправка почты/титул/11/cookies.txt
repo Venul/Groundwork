@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.dt00.net	TRUE	/	FALSE	1999999999	muidn	g1nEGXPcvE31
+.marketgid.com	TRUE	/	FALSE	1999999999	muidn	g1nEGXPcvE31
+.tovarro.com	TRUE	/	FALSE	1999999999	muidn	g1nEGXPcvE31
+

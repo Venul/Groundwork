@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html ng-app='app'>
+
+<head>
+	<meta charset="utf-8" />
+	<title> </title>
+	<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.2.29/angular.min.js"></script>
+	<script type="text/javascript" src="script.js"> </script>
+</head>
+	<body>
+		  <h2>Магазин</h2>
+		  <div ng-controller="KitchenCtrl">
+		    <ul class="unstyled">
+		      <li ng-repeat="item in items">
+		        <button type="button" ng-click="addToCart(item)">Добавить в корзину</button>
+		        <span>{{item.name}}</span>
+		      </li>
+		    </ul>
+		    <hr/>
+		    <span>
+		        В корзине <ng-pluralize count="cart.length"
+		                when="{'0': 'пусто.',
+		                       '1': '{} товар.',
+		                       '2': '{} товара.',
+		                       'other': '{} товаров.'}">
+		        </ng-pluralize>
+		    </span>
+		    <span ng-show="cart.length > 0">Сумма {{cartSum()}}</span>
+		    <ul class="unstyled">
+		      <li ng-repeat="item in cart">
+		        <button type="button" ng-click="removeFromCart($index)">Убрать из корзины</button>
+		        <span>{{item.name}}</span>
+		      </li>
+		    </ul>
+		  </div>
+
+	</body>	
+</html>
+
+
